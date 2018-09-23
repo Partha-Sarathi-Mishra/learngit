@@ -1,5 +1,6 @@
 public class BinarySearch {
 	public static void main(String args[]) {
+		//a java program for binary search
 		int arr[] = {1,2,3,4,5,6,7,8,9,10};
 		int mid = arr.length/2-1;
 		int key = 6;
